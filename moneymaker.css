@@ -332,7 +332,10 @@ header section img {
     justify-content: space-evenly;
     margin-top: 3rem;
     margin-bottom: 3rem;
- 
+    background: #a7a7f5cc;
+    padding: 5rem 0;
+    box-sizing: border-box;
+    border-radius: 50px;
 }
 
 .section3 img{
